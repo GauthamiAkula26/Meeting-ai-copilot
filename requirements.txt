@@ -1,7 +1,7 @@
-streamlit
-sentence-transformers
-scikit-learn
-numpy
-pandas
-python-dotenv
-openai
+streamlit==1.37.1
+sentence-transformers==3.0.1
+scikit-learn==1.5.1
+numpy==1.26.4
+pandas==2.2.2
+python-dotenv==1.0.1
+openai==1.40.3
