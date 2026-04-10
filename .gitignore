@@ -1,6 +1,23 @@
-.venv/
+# Python
 __pycache__/
-*.pyc
-.env
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+
+# Streamlit
 .streamlit/secrets.toml
-data/qmsum_sample.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data/cache
+*.npy
+*.pkl
+*.joblib
